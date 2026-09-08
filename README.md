@@ -15,6 +15,18 @@ The lab explores how digital images are represented as numerical matrices and ho
 - Geometric transformations
 - Creative image effects
 - Connections between traditional image processing and AI
+- Parameter experimentation and quantitative comparisons
+- Noise reduction with median filtering
+- Custom convolution kernel design
+
+## Personal Experiments
+
+In addition to the required lab activities, I completed four personal experiments:
+
+- Compared brightness increases of +25 and +75 and measured clipping at 255
+- Created a custom emboss convolution filter
+- Compared different CLAHE clip limits
+- Added salt-and-pepper noise and tested median filtering for noise reduction
 
 ## Tools Used
 
@@ -27,4 +39,4 @@ The lab explores how digital images are represented as numerical matrices and ho
 
 ## File
 
-- `L02_Kurmisheva_Viktoriya_ITAI1378.ipynb` - Completed lab notebook with code, comments, outputs, and reflection responses
+- `L02_Kurmisheva_Viktoriya_ITAI1378_re-submission.ipynb` - Completed lab notebook with code, comments, outputs, reflection responses, and four personal experiments
