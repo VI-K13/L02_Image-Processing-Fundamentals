@@ -39,4 +39,4 @@ In addition to the required lab activities, I completed four personal experiment
 
 ## File
 
-- `L02_Kurmisheva_Viktoriya_ITAI1378_re-submission.ipynb` - Completed lab notebook with code, comments, outputs, reflection responses, and four personal experiments
+- `L02_Kurmisheva_Viktoriya_ITAI1378_re_submission.ipynb` - Completed lab notebook with code, comments, outputs, reflection responses, and four personal experiments
